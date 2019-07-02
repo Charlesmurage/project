@@ -10,7 +10,7 @@ Written by *Charles Maina*. Mastering django.
 2. Create a virtual environment and activate it
 3. Install python version 3.6.8
 4. Pip install the requirements
-5. Create a database called tuzo.
+5. Create a database called project.
 6. Carry out migrations
 7. Run the server
 
