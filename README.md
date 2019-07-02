@@ -1,4 +1,4 @@
-# Tuzo
+# Awwards
 This is a django application that awards Kenyan websites according to different criteria after people post them
 
 ## Author Information
